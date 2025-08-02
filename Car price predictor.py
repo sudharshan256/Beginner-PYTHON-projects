@@ -7,9 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1xX5gCc5r-h81URnYK-KjwDqlAFcgcWms
 """
 
-from google.colab import files
-uploaded=files.upload()
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
